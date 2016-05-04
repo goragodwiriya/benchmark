@@ -36,3 +36,14 @@ Port : 22
 username : root
 
 password : 1234
+
+
+#PHP info
+http://127.17.0.2/info.php
+
+#การทดสอบ benchmark บนเครื่องตัวเอง
+```sh /var/www/html/php-framework-benchmark/benchmark.sh```
+
+เบื่องต้นผมให้ทดสอบด้วยตัวเองได้รายการเดียวคือ Loading Performance (PHP5.6) ใครทดสอบแล้วได้ผลเป็นยังไงแชร์กันดูบ้างนะครับ
+
+ไฟล์เว็บไซต์ทั้งหมดอยู่ที่ ```/var/www/html``` สามารถ ssh เข้าไปดูได้ครับ
